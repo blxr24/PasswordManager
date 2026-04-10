@@ -58,7 +58,7 @@ const char* PREF_BRIGHTNESS = "brightness";
 
 // Variáveis pré-definidas
 const String deviceID = "5c6560bca85c943f0006dd3d702f8bcc9f25f0e8c710fb908c32bab2984fc69a"; // Exemplo de SHA256 device ID
-const String initialPin = "1234"; // PIN inicial padrão
+const String initialPin = "159357"; // PIN inicial padrão
 
 int unlockAttempts = 0;
 int passwordLength = 12;  // Valor padrão
